@@ -1,0 +1,9 @@
+{
+    "GITHUB_USER": "jake0001_dev",
+    "GITHUB_TOKEN": "",
+    "WEBHOOK_URL": "",
+    "PORT": 3000,
+    "URL": "https://webhook.incoming.example.com",
+    "OUTPUT_PATH": "/var/www/site/build",
+    "SECRET": "A_SECRET_STRING"
+}
